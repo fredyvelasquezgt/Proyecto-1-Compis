@@ -1,0 +1,14 @@
+class Main inherits  {
+    hola(): SELF_TYPE {
+ 	    out_string("Hello, World.\n")
+    };
+};
+class Main {
+    main(): SELF_TYPE {
+ 	    out_string("Hellooooooo, World.\n")
+    };
+
+    main(hola: String, hola1: String): SELF_TYPE {
+ 	    out_string("Hello, World.\n")
+    };
+};
